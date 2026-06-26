@@ -9,7 +9,7 @@ Control a virtual ball on an OLED display using the ESP32 and MPU6500 motion sen
 - [1.3" OLED Display](https://robocraze.com/products/1-3in-oled-display)
 - [Jumper Wires](https://robocraze.com/products/f2m-jumper-wires-20cm-20pcs)
 - [Mini Breadboard](https://robocraze.com/products/mini-breadboard)
-- [USB to Micro USB Cable](https://robocraze.com/products/usb-to-micro-usb-cable)
+- [USB Cable](https://robocraze.com/products/usb-to-micro-usb-cable)
 
 ## 🎥 Demo Video
 
